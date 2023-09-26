@@ -1,0 +1,10 @@
+h1{
+    background-color: red;
+    size: 50;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-self: center;
+}
+p1{
+    align-self: center;
+    color: aquamarine;
+}
